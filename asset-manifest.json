@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://jawad-cloud.github.io/csb-dzjbx/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://jawad-cloud.github.io/csb-dzjbx/static/js/main.4da75fa3.chunk.js",
+    "main.js.map": "https://jawad-cloud.github.io/csb-dzjbx/static/js/main.4da75fa3.chunk.js.map",
+    "runtime-main.js": "https://jawad-cloud.github.io/csb-dzjbx/static/js/runtime-main.75a3f6b9.js",
+    "runtime-main.js.map": "https://jawad-cloud.github.io/csb-dzjbx/static/js/runtime-main.75a3f6b9.js.map",
+    "static/js/2.2967aa44.chunk.js": "https://jawad-cloud.github.io/csb-dzjbx/static/js/2.2967aa44.chunk.js",
+    "static/js/2.2967aa44.chunk.js.map": "https://jawad-cloud.github.io/csb-dzjbx/static/js/2.2967aa44.chunk.js.map",
+    "index.html": "https://jawad-cloud.github.io/csb-dzjbx/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://jawad-cloud.github.io/csb-dzjbx/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.2967aa44.chunk.js.LICENSE.txt": "https://jawad-cloud.github.io/csb-dzjbx/static/js/2.2967aa44.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.75a3f6b9.js",
+    "static/js/2.2967aa44.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.4da75fa3.chunk.js"
+  ]
+}
